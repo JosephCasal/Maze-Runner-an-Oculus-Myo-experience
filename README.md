@@ -4,7 +4,12 @@
 User starts in a maze and must find their way out by solving puzzles and moving objects with hand gestures read by the Myo armband.
 Built with Unity, c#, Oculus sdk, and Myo sdk.
 
-![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner1.jpg)![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner2.jpg)![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner3.jpg)
-
 
 Demo video: https://www.youtube.com/watch?v=SpgtDIOpBTU
+
+
+
+Screenshots:
+
+
+![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner1.jpg)![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner2.jpg)![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner3.jpg)
