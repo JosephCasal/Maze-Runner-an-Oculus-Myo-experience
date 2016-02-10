@@ -11,5 +11,4 @@ Demo video: https://www.youtube.com/watch?v=SpgtDIOpBTU
 
 Screenshots:
 
-
 ![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner1.jpg)![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner2.jpg)![alt tag](https://raw.githubusercontent.com/jcasa050/Maze-Runner-an-Oculus-Myo-experience/master/demo/maizerunner3.jpg)
